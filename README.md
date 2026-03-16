@@ -1,12 +1,12 @@
 # Ken 👨‍🎓
 
 **Student Developer**
-Learning, building, and documenting my journey in tech.
+Learning, building, and documenting my journey in tech. 2nd year student at San Sebastian College Recoletos - Manila
 
 ---
 
 ### 🔍 Currently Learning
-* **Topic:** [Web Development]
+* **Web Development** 
 
 ### 🛠️ Tech I Use
 `HTML` `CSS` `JavaScript` `Git`
